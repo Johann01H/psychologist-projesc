@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/images/image-psychologist-project.png" width="800">
+  <img src="./app/assets/images/image-psychologist-project.png" width="800">
 </p>
 
 # 🧠 Psychology Project
