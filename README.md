@@ -1,36 +1,127 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+<p align="center">
+  <img src="assets/images/image-psychologist-project.png" width="800">
+</p>
 
-## Getting Started
+# 🧠 Psychology Project
 
-First, run the development server:
+Welcome to **Psychology Project**, a modern web application designed to connect psychological insights with digital accessibility.  
+
+This platform can be used as a tool for therapists, a mental health resource, or a research support system.
+
+---
+
+# ✨ Features
+
+✅ **Modern Interface**  
+Built with **Next.js**, **React**, and **Tailwind CSS** for a clean and calming user experience.
+
+⚡ **Optimized Performance**  
+Fast rendering using the **Next.js App Router** architecture.
+
+📱 **Responsive Design**  
+Fully adaptable for **mobile, tablet, and desktop** devices.
+
+🔤 **Modern Typography**  
+Uses **Geist font family** for improved readability and modern aesthetics.
+
+---
+
+# 🛠 Tech Stack
+
+- Next.js
+- React
+- Tailwind CSS
+- TypeScript
+- Geist Font
+
+---
+
+# 🚀 Getting Started
+
+Follow these steps to run the project locally.
+
+## 📋 Prerequisites
+
+Make sure you have installed:
+
+- Node.js
+- npm / yarn / pnpm / bun
+
+---
+
+# 📦 Installation
+
+Clone the repository:
+
+```bash
+git clone https://github.com/yourusername/psychology-project.git
+```
+
+Go to the project directory:
+
+```bash
+cd psychology-project
+```
+
+Install dependencies:
+
+```bash
+npm install
+```
+
+---
+
+# ▶ Running the Project
+
+Start the development server:
 
 ```bash
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Then open:
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+```
+http://localhost:3000
+```
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+in your browser.
 
-## Learn More
+---
 
-To learn more about Next.js, take a look at the following resources:
+# 📁 Project Structure
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+```
+psychology-project
+│
+├── app
+├── components
+├── public
+├── assets
+│   └── image-psychologist-project.png
+├── styles
+└── README.md
+```
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+---
 
-## Deploy on Vercel
+# 🌍 Future Improvements
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+- Patient management system
+- Appointment scheduling
+- Therapist dashboard
+- AI-assisted psychological insights
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+---
+
+# 📄 License
+
+This project is open-source and available under the **MIT License**.
+
+---
+
+# 👨‍💻 Author
+
+Developed by **Johann Sebastian Velez Salamanca**
+
+Software Developer | AI & Web Development
